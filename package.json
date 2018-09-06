@@ -1,0 +1,16 @@
+{
+  "name": "cordova-plugin-loadweb",
+  "version": "0.0.1",
+  "description": "load webview for ionic ios platform ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ionic",
+    "ios",
+    "loadwebview"
+  ],
+  "author": "henry_zh",
+  "license": "ISC"
+}
